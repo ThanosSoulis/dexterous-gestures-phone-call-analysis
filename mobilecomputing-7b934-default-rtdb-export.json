@@ -1,0 +1,4665 @@
+{
+  "Agata": {
+    "1685893443126": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Sit",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "1530",
+      "timeStampAlarmSop": "1685893443125",
+      "timeStampAlarmStart": "1685893441595",
+      "userId": "Agata"
+    },
+    "1685893450684": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Sit",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "1221",
+      "timeStampAlarmSop": "1685893450683",
+      "timeStampAlarmStart": "1685893449462",
+      "userId": "Agata"
+    },
+    "1685893457198": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Sit",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "818",
+      "timeStampAlarmSop": "1685893457197",
+      "timeStampAlarmStart": "1685893456379",
+      "userId": "Agata"
+    },
+    "1685893464747": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Sit",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "1020",
+      "timeStampAlarmSop": "1685893464746",
+      "timeStampAlarmStart": "1685893463726",
+      "userId": "Agata"
+    }
+  },
+  "Angelos": {
+    "1685971694200": {
+      "actualGesture": "Touch",
+      "contextId": "Sit",
+      "expectedGesture": "Touch",
+      "responseTime": "5974",
+      "timeStampAlarmSop": "1685971694200",
+      "timeStampAlarmStart": "1685971688226",
+      "userId": "Angelos"
+    },
+    "1685971705734": {
+      "actualGesture": "Touch",
+      "contextId": "Sit",
+      "expectedGesture": "Touch",
+      "responseTime": "5212",
+      "timeStampAlarmSop": "1685971705732",
+      "timeStampAlarmStart": "1685971700520",
+      "userId": "Angelos"
+    },
+    "1685971715133": {
+      "actualGesture": "Touch",
+      "contextId": "Sit",
+      "expectedGesture": "Touch",
+      "responseTime": "3138",
+      "timeStampAlarmSop": "1685971715131",
+      "timeStampAlarmStart": "1685971711993",
+      "userId": "Angelos"
+    },
+    "1685971723662": {
+      "actualGesture": "Touch",
+      "contextId": "Sit",
+      "expectedGesture": "Touch",
+      "responseTime": "3203",
+      "timeStampAlarmSop": "1685971723661",
+      "timeStampAlarmStart": "1685971720458",
+      "userId": "Angelos"
+    },
+    "1685971845105": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Sit",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "4384",
+      "timeStampAlarmSop": "1685971845104",
+      "timeStampAlarmStart": "1685971840720",
+      "userId": "Angelos"
+    },
+    "1685971854711": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Sit",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "3001",
+      "timeStampAlarmSop": "1685971854711",
+      "timeStampAlarmStart": "1685971851710",
+      "userId": "Angelos"
+    },
+    "1685971864124": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Sit",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "3011",
+      "timeStampAlarmSop": "1685971864123",
+      "timeStampAlarmStart": "1685971861112",
+      "userId": "Angelos"
+    },
+    "1685971874486": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Sit",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "3403",
+      "timeStampAlarmSop": "1685971874486",
+      "timeStampAlarmStart": "1685971871083",
+      "userId": "Angelos"
+    },
+    "1685971956443": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Sit",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "3411",
+      "timeStampAlarmSop": "1685971956442",
+      "timeStampAlarmStart": "1685971953031",
+      "userId": "Angelos"
+    },
+    "1685971965659": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Sit",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "3406",
+      "timeStampAlarmSop": "1685971965656",
+      "timeStampAlarmStart": "1685971962250",
+      "userId": "Angelos"
+    },
+    "1685971974706": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Sit",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "3608",
+      "timeStampAlarmSop": "1685971974706",
+      "timeStampAlarmStart": "1685971971098",
+      "userId": "Angelos"
+    },
+    "1685971985465": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Sit",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "4404",
+      "timeStampAlarmSop": "1685971985464",
+      "timeStampAlarmStart": "1685971981060",
+      "userId": "Angelos"
+    },
+    "1685972044946": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Sit",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "3616",
+      "timeStampAlarmSop": "1685972044944",
+      "timeStampAlarmStart": "1685972041328",
+      "userId": "Angelos"
+    },
+    "1685972053887": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Sit",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "3405",
+      "timeStampAlarmSop": "1685972053886",
+      "timeStampAlarmStart": "1685972050481",
+      "userId": "Angelos"
+    },
+    "1685972063399": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Sit",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "3208",
+      "timeStampAlarmSop": "1685972063398",
+      "timeStampAlarmStart": "1685972060190",
+      "userId": "Angelos"
+    },
+    "1685972072603": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Sit",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "3406",
+      "timeStampAlarmSop": "1685972072603",
+      "timeStampAlarmStart": "1685972069197",
+      "userId": "Angelos"
+    },
+    "1685972244896": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "3607",
+      "timeStampAlarmSop": "1685972244896",
+      "timeStampAlarmStart": "1685972241289",
+      "userId": "Angelos"
+    },
+    "1685972254963": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "3607",
+      "timeStampAlarmSop": "1685972254962",
+      "timeStampAlarmStart": "1685972251355",
+      "userId": "Angelos"
+    },
+    "1685972265152": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "3416",
+      "timeStampAlarmSop": "1685972265151",
+      "timeStampAlarmStart": "1685972261735",
+      "userId": "Angelos"
+    },
+    "1685972274587": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "3608",
+      "timeStampAlarmSop": "1685972274585",
+      "timeStampAlarmStart": "1685972270977",
+      "userId": "Angelos"
+    },
+    "1685972334651": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "3607",
+      "timeStampAlarmSop": "1685972334651",
+      "timeStampAlarmStart": "1685972331044",
+      "userId": "Angelos"
+    },
+    "1685972344843": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "3011",
+      "timeStampAlarmSop": "1685972344839",
+      "timeStampAlarmStart": "1685972341828",
+      "userId": "Angelos"
+    },
+    "1685972345432": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "3604",
+      "timeStampAlarmSop": "1685972345432",
+      "timeStampAlarmStart": "1685972341828",
+      "userId": "Angelos"
+    },
+    "1685972458232": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "4756",
+      "timeStampAlarmSop": "1685972458232",
+      "timeStampAlarmStart": "1685972453476",
+      "userId": "Angelos"
+    },
+    "1685972566296": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "5376",
+      "timeStampAlarmSop": "1685972566292",
+      "timeStampAlarmStart": "1685972560916",
+      "userId": "Angelos"
+    },
+    "1685972576423": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "3804",
+      "timeStampAlarmSop": "1685972576423",
+      "timeStampAlarmStart": "1685972572619",
+      "userId": "Angelos"
+    },
+    "1685972586702": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "4008",
+      "timeStampAlarmSop": "1685972586702",
+      "timeStampAlarmStart": "1685972582694",
+      "userId": "Angelos"
+    },
+    "1685972595856": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "3805",
+      "timeStampAlarmSop": "1685972595855",
+      "timeStampAlarmStart": "1685972592050",
+      "userId": "Angelos"
+    },
+    "1685972666366": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "Touch",
+      "responseTime": "4449",
+      "timeStampAlarmSop": "1685972666365",
+      "timeStampAlarmStart": "1685972661916",
+      "userId": "Angelos"
+    },
+    "1685972678205": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "Touch",
+      "responseTime": "5238",
+      "timeStampAlarmSop": "1685972678203",
+      "timeStampAlarmStart": "1685972672965",
+      "userId": "Angelos"
+    },
+    "1685972688645": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "Touch",
+      "responseTime": "4023",
+      "timeStampAlarmSop": "1685972688644",
+      "timeStampAlarmStart": "1685972684621",
+      "userId": "Angelos"
+    },
+    "1685972699639": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "Touch",
+      "responseTime": "4046",
+      "timeStampAlarmSop": "1685972699638",
+      "timeStampAlarmStart": "1685972695592",
+      "userId": "Angelos"
+    },
+    "1685972823383": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "3809",
+      "timeStampAlarmSop": "1685972823379",
+      "timeStampAlarmStart": "1685972819570",
+      "userId": "Angelos"
+    },
+    "1685972832595": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "3413",
+      "timeStampAlarmSop": "1685972832591",
+      "timeStampAlarmStart": "1685972829178",
+      "userId": "Angelos"
+    },
+    "1685972842482": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "4414",
+      "timeStampAlarmSop": "1685972842481",
+      "timeStampAlarmStart": "1685972838067",
+      "userId": "Angelos"
+    },
+    "1685972852648": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "3815",
+      "timeStampAlarmSop": "1685972852647",
+      "timeStampAlarmStart": "1685972848832",
+      "userId": "Angelos"
+    },
+    "1685973103674": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "4404",
+      "timeStampAlarmSop": "1685973103673",
+      "timeStampAlarmStart": "1685973099269",
+      "userId": "Angelos"
+    },
+    "1685973115600": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "6412",
+      "timeStampAlarmSop": "1685973115599",
+      "timeStampAlarmStart": "1685973109187",
+      "userId": "Angelos"
+    },
+    "1685973125918": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "4008",
+      "timeStampAlarmSop": "1685973125917",
+      "timeStampAlarmStart": "1685973121909",
+      "userId": "Angelos"
+    },
+    "1685973135728": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "4006",
+      "timeStampAlarmSop": "1685973135728",
+      "timeStampAlarmStart": "1685973131722",
+      "userId": "Angelos"
+    },
+    "1685973207233": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "5210",
+      "timeStampAlarmSop": "1685973207232",
+      "timeStampAlarmStart": "1685973202022",
+      "userId": "Angelos"
+    },
+    "1685973216896": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "3201",
+      "timeStampAlarmSop": "1685973216896",
+      "timeStampAlarmStart": "1685973213695",
+      "userId": "Angelos"
+    },
+    "1685973227462": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "3811",
+      "timeStampAlarmSop": "1685973227461",
+      "timeStampAlarmStart": "1685973223650",
+      "userId": "Angelos"
+    },
+    "1685973236672": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "3416",
+      "timeStampAlarmSop": "1685973236671",
+      "timeStampAlarmStart": "1685973233255",
+      "userId": "Angelos"
+    },
+    "1685973317761": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "5007",
+      "timeStampAlarmSop": "1685973317760",
+      "timeStampAlarmStart": "1685973312753",
+      "userId": "Angelos"
+    },
+    "1685973328738": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "3802",
+      "timeStampAlarmSop": "1685973328738",
+      "timeStampAlarmStart": "1685973324936",
+      "userId": "Angelos"
+    },
+    "1685973339878": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "4610",
+      "timeStampAlarmSop": "1685973339877",
+      "timeStampAlarmStart": "1685973335267",
+      "userId": "Angelos"
+    },
+    "1685973352562": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "6009",
+      "timeStampAlarmSop": "1685973352561",
+      "timeStampAlarmStart": "1685973346552",
+      "userId": "Angelos"
+    },
+    "1685973394112": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "Touch",
+      "responseTime": "3873",
+      "timeStampAlarmSop": "1685973394112",
+      "timeStampAlarmStart": "1685973390239",
+      "userId": "Angelos"
+    },
+    "1685973404018": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "Touch",
+      "responseTime": "3843",
+      "timeStampAlarmSop": "1685973404015",
+      "timeStampAlarmStart": "1685973400172",
+      "userId": "Angelos"
+    },
+    "1685973415310": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "Touch",
+      "responseTime": "5026",
+      "timeStampAlarmSop": "1685973415310",
+      "timeStampAlarmStart": "1685973410284",
+      "userId": "Angelos"
+    },
+    "1685973424679": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "Touch",
+      "responseTime": "3274",
+      "timeStampAlarmSop": "1685973424678",
+      "timeStampAlarmStart": "1685973421404",
+      "userId": "Angelos"
+    }
+  },
+  "Chris T2": {
+    "1686130539285": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "3743",
+      "timeStampAlarmSop": "1686130539285",
+      "timeStampAlarmStart": "1686130535542",
+      "userId": "Chris T2"
+    },
+    "1686130550996": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "4616",
+      "timeStampAlarmSop": "1686130550995",
+      "timeStampAlarmStart": "1686130546379",
+      "userId": "Chris T2"
+    },
+    "1686130560798": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "3809",
+      "timeStampAlarmSop": "1686130560798",
+      "timeStampAlarmStart": "1686130556989",
+      "userId": "Chris T2"
+    },
+    "1686130694028": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "3324",
+      "timeStampAlarmSop": "1686130694028",
+      "timeStampAlarmStart": "1686130690704",
+      "userId": "Chris T2"
+    },
+    "1686130703737": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "3409",
+      "timeStampAlarmSop": "1686130703736",
+      "timeStampAlarmStart": "1686130700327",
+      "userId": "Chris T2"
+    },
+    "1686130713440": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "4009",
+      "timeStampAlarmSop": "1686130713440",
+      "timeStampAlarmStart": "1686130709431",
+      "userId": "Chris T2"
+    },
+    "1686130724370": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "4419",
+      "timeStampAlarmSop": "1686130724368",
+      "timeStampAlarmStart": "1686130719949",
+      "userId": "Chris T2"
+    },
+    "1686130782784": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "Touch",
+      "responseTime": "4734",
+      "timeStampAlarmSop": "1686130782783",
+      "timeStampAlarmStart": "1686130778049",
+      "userId": "Chris T2"
+    },
+    "1686130792307": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "Touch",
+      "responseTime": "3340",
+      "timeStampAlarmSop": "1686130792306",
+      "timeStampAlarmStart": "1686130788966",
+      "userId": "Chris T2"
+    },
+    "1686130801527": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "Touch",
+      "responseTime": "3225",
+      "timeStampAlarmSop": "1686130801526",
+      "timeStampAlarmStart": "1686130798301",
+      "userId": "Chris T2"
+    },
+    "1686130809911": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "Touch",
+      "responseTime": "3152",
+      "timeStampAlarmSop": "1686130809911",
+      "timeStampAlarmStart": "1686130806759",
+      "userId": "Chris T2"
+    },
+    "1686130856181": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "3015",
+      "timeStampAlarmSop": "1686130856180",
+      "timeStampAlarmStart": "1686130853165",
+      "userId": "Chris T2"
+    },
+    "1686130868254": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "5619",
+      "timeStampAlarmSop": "1686130868252",
+      "timeStampAlarmStart": "1686130862633",
+      "userId": "Chris T2"
+    },
+    "1686130878084": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "4016",
+      "timeStampAlarmSop": "1686130878083",
+      "timeStampAlarmStart": "1686130874067",
+      "userId": "Chris T2"
+    },
+    "1686130887117": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "2811",
+      "timeStampAlarmSop": "1686130887116",
+      "timeStampAlarmStart": "1686130884305",
+      "userId": "Chris T2"
+    },
+    "1686130940208": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "null",
+      "timeStampAlarmSop": "0",
+      "timeStampAlarmStart": "1686130936997",
+      "userId": "Chris T2"
+    },
+    "1686130941213": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "null",
+      "timeStampAlarmSop": "0",
+      "timeStampAlarmStart": "1686130936997",
+      "userId": "Chris T2"
+    },
+    "1686130942612": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "null",
+      "timeStampAlarmSop": "0",
+      "timeStampAlarmStart": "1686130936997",
+      "userId": "Chris T2"
+    },
+    "1686130943410": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "null",
+      "timeStampAlarmSop": "0",
+      "timeStampAlarmStart": "1686130936997",
+      "userId": "Chris T2"
+    },
+    "1686130945009": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "8012",
+      "timeStampAlarmSop": "1686130945009",
+      "timeStampAlarmStart": "1686130936997",
+      "userId": "Chris T2"
+    },
+    "1686130954890": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "3213",
+      "timeStampAlarmSop": "1686130954889",
+      "timeStampAlarmStart": "1686130951676",
+      "userId": "Chris T2"
+    },
+    "1686130963817": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "3611",
+      "timeStampAlarmSop": "1686130963816",
+      "timeStampAlarmStart": "1686130960205",
+      "userId": "Chris T2"
+    },
+    "1686130972675": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "2611",
+      "timeStampAlarmSop": "1686130972674",
+      "timeStampAlarmStart": "1686130970063",
+      "userId": "Chris T2"
+    }
+  },
+  "Falcon": {
+    "1686040219157": {
+      "actualGesture": "Touch",
+      "contextId": "Sit",
+      "expectedGesture": "Touch",
+      "responseTime": "1056",
+      "timeStampAlarmSop": "1686040219156",
+      "timeStampAlarmStart": "1686040218100",
+      "userId": "Falcon"
+    },
+    "1686082471771": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Sit",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "6835",
+      "timeStampAlarmSop": "1686082471769",
+      "timeStampAlarmStart": "1686082464934",
+      "userId": "Falcon"
+    },
+    "1686082482550": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Sit",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "4025",
+      "timeStampAlarmSop": "1686082482549",
+      "timeStampAlarmStart": "1686082478524",
+      "userId": "Falcon"
+    },
+    "1686082490120": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Sit",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "2224",
+      "timeStampAlarmSop": "1686082490119",
+      "timeStampAlarmStart": "1686082487895",
+      "userId": "Falcon"
+    },
+    "1686082497029": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Sit",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "1222",
+      "timeStampAlarmSop": "1686082497028",
+      "timeStampAlarmStart": "1686082495806",
+      "userId": "Falcon"
+    },
+    "1686082527687": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Sit",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "4854",
+      "timeStampAlarmSop": "1686082527686",
+      "timeStampAlarmStart": "1686082522832",
+      "userId": "Falcon"
+    },
+    "1686082534517": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Sit",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "1632",
+      "timeStampAlarmSop": "1686082534517",
+      "timeStampAlarmStart": "1686082532885",
+      "userId": "Falcon"
+    },
+    "1686082545759": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Sit",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "5824",
+      "timeStampAlarmSop": "1686082545759",
+      "timeStampAlarmStart": "1686082539935",
+      "userId": "Falcon"
+    },
+    "1686082552676": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Sit",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "1623",
+      "timeStampAlarmSop": "1686082552675",
+      "timeStampAlarmStart": "1686082551052",
+      "userId": "Falcon"
+    },
+    "1686082580460": {
+      "actualGesture": "Touch",
+      "contextId": "Sit",
+      "expectedGesture": "Touch",
+      "responseTime": "1341",
+      "timeStampAlarmSop": "1686082580459",
+      "timeStampAlarmStart": "1686082579118",
+      "userId": "Falcon"
+    },
+    "1686082588582": {
+      "actualGesture": "Touch",
+      "contextId": "Sit",
+      "expectedGesture": "Touch",
+      "responseTime": "1463",
+      "timeStampAlarmSop": "1686082588580",
+      "timeStampAlarmStart": "1686082587117",
+      "userId": "Falcon"
+    },
+    "1686082596948": {
+      "actualGesture": "Touch",
+      "contextId": "Sit",
+      "expectedGesture": "Touch",
+      "responseTime": "1862",
+      "timeStampAlarmSop": "1686082596948",
+      "timeStampAlarmStart": "1686082595086",
+      "userId": "Falcon"
+    },
+    "1686082604971": {
+      "actualGesture": "Touch",
+      "contextId": "Sit",
+      "expectedGesture": "Touch",
+      "responseTime": "1365",
+      "timeStampAlarmSop": "1686082604970",
+      "timeStampAlarmStart": "1686082603605",
+      "userId": "Falcon"
+    },
+    "1686082639657": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Sit",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "2022",
+      "timeStampAlarmSop": "1686082639657",
+      "timeStampAlarmStart": "1686082637635",
+      "userId": "Falcon"
+    },
+    "1686082648889": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Sit",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "2410",
+      "timeStampAlarmSop": "1686082648889",
+      "timeStampAlarmStart": "1686082646479",
+      "userId": "Falcon"
+    },
+    "1686082657574": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Sit",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "2031",
+      "timeStampAlarmSop": "1686082657574",
+      "timeStampAlarmStart": "1686082655543",
+      "userId": "Falcon"
+    },
+    "1686082664804": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Sit",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "2042",
+      "timeStampAlarmSop": "1686082664804",
+      "timeStampAlarmStart": "1686082662762",
+      "userId": "Falcon"
+    },
+    "1686082836865": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "null",
+      "timeStampAlarmSop": "0",
+      "timeStampAlarmStart": "1686082832656",
+      "userId": "Falcon"
+    },
+    "1686082837464": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "null",
+      "timeStampAlarmSop": "0",
+      "timeStampAlarmStart": "1686082832656",
+      "userId": "Falcon"
+    },
+    "1686082839888": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "7231",
+      "timeStampAlarmSop": "1686082839887",
+      "timeStampAlarmStart": "1686082832656",
+      "userId": "Falcon"
+    },
+    "1686082849487": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "3632",
+      "timeStampAlarmSop": "1686082849487",
+      "timeStampAlarmStart": "1686082845855",
+      "userId": "Falcon"
+    },
+    "1686082858977": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "3421",
+      "timeStampAlarmSop": "1686082858976",
+      "timeStampAlarmStart": "1686082855555",
+      "userId": "Falcon"
+    },
+    "1686082869656": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "3822",
+      "timeStampAlarmSop": "1686082869655",
+      "timeStampAlarmStart": "1686082865833",
+      "userId": "Falcon"
+    },
+    "1686083205539": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "Touch",
+      "responseTime": "3568",
+      "timeStampAlarmSop": "1686083205538",
+      "timeStampAlarmStart": "1686083201970",
+      "userId": "Falcon"
+    },
+    "1686083214512": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "Touch",
+      "responseTime": "3342",
+      "timeStampAlarmSop": "1686083214512",
+      "timeStampAlarmStart": "1686083211170",
+      "userId": "Falcon"
+    },
+    "1686083222676": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "Touch",
+      "responseTime": "2617",
+      "timeStampAlarmSop": "1686083222676",
+      "timeStampAlarmStart": "1686083220059",
+      "userId": "Falcon"
+    },
+    "1686083230355": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "Touch",
+      "responseTime": "2293",
+      "timeStampAlarmSop": "1686083230354",
+      "timeStampAlarmStart": "1686083228061",
+      "userId": "Falcon"
+    },
+    "1686083323730": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "3832",
+      "timeStampAlarmSop": "1686083323730",
+      "timeStampAlarmStart": "1686083319898",
+      "userId": "Falcon"
+    },
+    "1686083332400": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "3030",
+      "timeStampAlarmSop": "1686083332399",
+      "timeStampAlarmStart": "1686083329369",
+      "userId": "Falcon"
+    },
+    "1686083341550": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "3631",
+      "timeStampAlarmSop": "1686083341549",
+      "timeStampAlarmStart": "1686083337918",
+      "userId": "Falcon"
+    },
+    "1686083351266": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "2622",
+      "timeStampAlarmSop": "1686083351265",
+      "timeStampAlarmStart": "1686083348643",
+      "userId": "Falcon"
+    },
+    "1686083492879": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "9026",
+      "timeStampAlarmSop": "1686083492879",
+      "timeStampAlarmStart": "1686083483853",
+      "userId": "Falcon"
+    },
+    "1686083504216": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "4409",
+      "timeStampAlarmSop": "1686083504215",
+      "timeStampAlarmStart": "1686083499806",
+      "userId": "Falcon"
+    },
+    "1686083513985": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "3222",
+      "timeStampAlarmSop": "1686083513985",
+      "timeStampAlarmStart": "1686083510763",
+      "userId": "Falcon"
+    },
+    "1686083522371": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "3210",
+      "timeStampAlarmSop": "1686083522371",
+      "timeStampAlarmStart": "1686083519161",
+      "userId": "Falcon"
+    },
+    "1686083636004": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "null",
+      "timeStampAlarmSop": "0",
+      "timeStampAlarmStart": "1686083631995",
+      "userId": "Falcon"
+    },
+    "1686083637404": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "null",
+      "timeStampAlarmSop": "0",
+      "timeStampAlarmStart": "1686083631995",
+      "userId": "Falcon"
+    },
+    "1686083641604": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "null",
+      "timeStampAlarmSop": "0",
+      "timeStampAlarmStart": "1686083631995",
+      "userId": "Falcon"
+    },
+    "1686083642205": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "null",
+      "timeStampAlarmSop": "0",
+      "timeStampAlarmStart": "1686083631995",
+      "userId": "Falcon"
+    },
+    "1686083643841": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "11845",
+      "timeStampAlarmSop": "1686083643840",
+      "timeStampAlarmStart": "1686083631995",
+      "userId": "Falcon"
+    },
+    "1686083650473": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "1490",
+      "timeStampAlarmSop": "1686083650473",
+      "timeStampAlarmStart": "1686083648983",
+      "userId": "Falcon"
+    },
+    "1686083657988": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "824",
+      "timeStampAlarmSop": "1686083657988",
+      "timeStampAlarmStart": "1686083657164",
+      "userId": "Falcon"
+    },
+    "1686083666146": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "1990",
+      "timeStampAlarmSop": "1686083666145",
+      "timeStampAlarmStart": "1686083664155",
+      "userId": "Falcon"
+    },
+    "1686083717687": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "3019",
+      "timeStampAlarmSop": "1686083717687",
+      "timeStampAlarmStart": "1686083714668",
+      "userId": "Falcon"
+    },
+    "1686083728043": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "3423",
+      "timeStampAlarmSop": "1686083728043",
+      "timeStampAlarmStart": "1686083724620",
+      "userId": "Falcon"
+    },
+    "1686083737865": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "2927",
+      "timeStampAlarmSop": "1686083737865",
+      "timeStampAlarmStart": "1686083734938",
+      "userId": "Falcon"
+    },
+    "1686083738344": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "3405",
+      "timeStampAlarmSop": "1686083738343",
+      "timeStampAlarmStart": "1686083734938",
+      "userId": "Falcon"
+    },
+    "1686083820371": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "3313",
+      "timeStampAlarmSop": "1686083820371",
+      "timeStampAlarmStart": "1686083817058",
+      "userId": "Falcon"
+    },
+    "1686083828922": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "2822",
+      "timeStampAlarmSop": "1686083828921",
+      "timeStampAlarmStart": "1686083826099",
+      "userId": "Falcon"
+    },
+    "1686083837972": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "3231",
+      "timeStampAlarmSop": "1686083837971",
+      "timeStampAlarmStart": "1686083834740",
+      "userId": "Falcon"
+    },
+    "1686083849054": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "4023",
+      "timeStampAlarmSop": "1686083849053",
+      "timeStampAlarmStart": "1686083845030",
+      "userId": "Falcon"
+    },
+    "1686083901179": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "Touch",
+      "responseTime": "2884",
+      "timeStampAlarmSop": "1686083901179",
+      "timeStampAlarmStart": "1686083898295",
+      "userId": "Falcon"
+    },
+    "1686083909940": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "Touch",
+      "responseTime": "3409",
+      "timeStampAlarmSop": "1686083909939",
+      "timeStampAlarmStart": "1686083906530",
+      "userId": "Falcon"
+    },
+    "1686083919081": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "Touch",
+      "responseTime": "2940",
+      "timeStampAlarmSop": "1686083919081",
+      "timeStampAlarmStart": "1686083916141",
+      "userId": "Falcon"
+    },
+    "1686083928696": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "Touch",
+      "responseTime": "3488",
+      "timeStampAlarmSop": "1686083928695",
+      "timeStampAlarmStart": "1686083925207",
+      "userId": "Falcon"
+    },
+    "1686083984566": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "4022",
+      "timeStampAlarmSop": "1686083984565",
+      "timeStampAlarmStart": "1686083980543",
+      "userId": "Falcon"
+    },
+    "1686083994455": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "3031",
+      "timeStampAlarmSop": "1686083994454",
+      "timeStampAlarmStart": "1686083991423",
+      "userId": "Falcon"
+    },
+    "1686084006863": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "6811",
+      "timeStampAlarmSop": "1686084006863",
+      "timeStampAlarmStart": "1686084000052",
+      "userId": "Falcon"
+    },
+    "1686084017301": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "3421",
+      "timeStampAlarmSop": "1686084017301",
+      "timeStampAlarmStart": "1686084013880",
+      "userId": "Falcon"
+    },
+    "1686084072142": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "6410",
+      "timeStampAlarmSop": "1686084072142",
+      "timeStampAlarmStart": "1686084065732",
+      "userId": "Falcon"
+    },
+    "1686084082844": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "4032",
+      "timeStampAlarmSop": "1686084082844",
+      "timeStampAlarmStart": "1686084078812",
+      "userId": "Falcon"
+    },
+    "1686084092324": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "4023",
+      "timeStampAlarmSop": "1686084092324",
+      "timeStampAlarmStart": "1686084088301",
+      "userId": "Falcon"
+    },
+    "1686084102235": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "3411",
+      "timeStampAlarmSop": "1686084102234",
+      "timeStampAlarmStart": "1686084098823",
+      "userId": "Falcon"
+    }
+  },
+  "Gabriel": {
+    "1686147521616": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Sit",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "5466",
+      "timeStampAlarmSop": "1686147521615",
+      "timeStampAlarmStart": "1686147516149",
+      "userId": "Gabriel"
+    },
+    "1686147531282": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Sit",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "4201",
+      "timeStampAlarmSop": "1686147531281",
+      "timeStampAlarmStart": "1686147527080",
+      "userId": "Gabriel"
+    },
+    "1686147540214": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Sit",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "3001",
+      "timeStampAlarmSop": "1686147540214",
+      "timeStampAlarmStart": "1686147537213",
+      "userId": "Gabriel"
+    },
+    "1686147551658": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Sit",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "4404",
+      "timeStampAlarmSop": "1686147551658",
+      "timeStampAlarmStart": "1686147547254",
+      "userId": "Gabriel"
+    },
+    "1686147601477": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Sit",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "4007",
+      "timeStampAlarmSop": "1686147601477",
+      "timeStampAlarmStart": "1686147597470",
+      "userId": "Gabriel"
+    },
+    "1686147612111": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Sit",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "3806",
+      "timeStampAlarmSop": "1686147612109",
+      "timeStampAlarmStart": "1686147608303",
+      "userId": "Gabriel"
+    },
+    "1686147621782": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Sit",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "3807",
+      "timeStampAlarmSop": "1686147621781",
+      "timeStampAlarmStart": "1686147617974",
+      "userId": "Gabriel"
+    },
+    "1686147630901": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Sit",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "3407",
+      "timeStampAlarmSop": "1686147630900",
+      "timeStampAlarmStart": "1686147627493",
+      "userId": "Gabriel"
+    },
+    "1686147716383": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Sit",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "3811",
+      "timeStampAlarmSop": "1686147716382",
+      "timeStampAlarmStart": "1686147712571",
+      "userId": "Gabriel"
+    },
+    "1686147726907": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Sit",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "3810",
+      "timeStampAlarmSop": "1686147726906",
+      "timeStampAlarmStart": "1686147723096",
+      "userId": "Gabriel"
+    },
+    "1686147736669": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Sit",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "2803",
+      "timeStampAlarmSop": "1686147736669",
+      "timeStampAlarmStart": "1686147733866",
+      "userId": "Gabriel"
+    },
+    "1686147745390": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Sit",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "3399",
+      "timeStampAlarmSop": "1686147745390",
+      "timeStampAlarmStart": "1686147741991",
+      "userId": "Gabriel"
+    },
+    "1686147775162": {
+      "actualGesture": "Touch",
+      "contextId": "Sit",
+      "expectedGesture": "Touch",
+      "responseTime": "3436",
+      "timeStampAlarmSop": "1686147775161",
+      "timeStampAlarmStart": "1686147771725",
+      "userId": "Gabriel"
+    },
+    "1686147783502": {
+      "actualGesture": "Touch",
+      "contextId": "Sit",
+      "expectedGesture": "Touch",
+      "responseTime": "2946",
+      "timeStampAlarmSop": "1686147783502",
+      "timeStampAlarmStart": "1686147780556",
+      "userId": "Gabriel"
+    },
+    "1686147792340": {
+      "actualGesture": "Touch",
+      "contextId": "Sit",
+      "expectedGesture": "Touch",
+      "responseTime": "3085",
+      "timeStampAlarmSop": "1686147792338",
+      "timeStampAlarmStart": "1686147789253",
+      "userId": "Gabriel"
+    },
+    "1686147801093": {
+      "actualGesture": "Touch",
+      "contextId": "Sit",
+      "expectedGesture": "Touch",
+      "responseTime": "2958",
+      "timeStampAlarmSop": "1686147801092",
+      "timeStampAlarmStart": "1686147798134",
+      "userId": "Gabriel"
+    },
+    "1686147905504": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "5603",
+      "timeStampAlarmSop": "1686147905501",
+      "timeStampAlarmStart": "1686147899898",
+      "userId": "Gabriel"
+    },
+    "1686147915431": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "3407",
+      "timeStampAlarmSop": "1686147915431",
+      "timeStampAlarmStart": "1686147912024",
+      "userId": "Gabriel"
+    },
+    "1686147924789": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "3805",
+      "timeStampAlarmSop": "1686147924788",
+      "timeStampAlarmStart": "1686147920983",
+      "userId": "Gabriel"
+    },
+    "1686147935741": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "3804",
+      "timeStampAlarmSop": "1686147935740",
+      "timeStampAlarmStart": "1686147931936",
+      "userId": "Gabriel"
+    },
+    "1686147981127": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "4201",
+      "timeStampAlarmSop": "1686147981127",
+      "timeStampAlarmStart": "1686147976926",
+      "userId": "Gabriel"
+    },
+    "1686147991230": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "3611",
+      "timeStampAlarmSop": "1686147991229",
+      "timeStampAlarmStart": "1686147987618",
+      "userId": "Gabriel"
+    },
+    "1686148001124": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "3205",
+      "timeStampAlarmSop": "1686148001123",
+      "timeStampAlarmStart": "1686147997918",
+      "userId": "Gabriel"
+    },
+    "1686148010385": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "3608",
+      "timeStampAlarmSop": "1686148010384",
+      "timeStampAlarmStart": "1686148006776",
+      "userId": "Gabriel"
+    },
+    "1686148059818": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "3803",
+      "timeStampAlarmSop": "1686148059818",
+      "timeStampAlarmStart": "1686148056015",
+      "userId": "Gabriel"
+    },
+    "1686148070371": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "3609",
+      "timeStampAlarmSop": "1686148070370",
+      "timeStampAlarmStart": "1686148066761",
+      "userId": "Gabriel"
+    },
+    "1686148080654": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "4015",
+      "timeStampAlarmSop": "1686148080653",
+      "timeStampAlarmStart": "1686148076638",
+      "userId": "Gabriel"
+    },
+    "1686148092277": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "5001",
+      "timeStampAlarmSop": "1686148092276",
+      "timeStampAlarmStart": "1686148087275",
+      "userId": "Gabriel"
+    },
+    "1686148130314": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "Touch",
+      "responseTime": "3803",
+      "timeStampAlarmSop": "1686148130313",
+      "timeStampAlarmStart": "1686148126510",
+      "userId": "Gabriel"
+    },
+    "1686148139926": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "Touch",
+      "responseTime": "3133",
+      "timeStampAlarmSop": "1686148139926",
+      "timeStampAlarmStart": "1686148136793",
+      "userId": "Gabriel"
+    },
+    "1686148150076": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "Touch",
+      "responseTime": "3083",
+      "timeStampAlarmSop": "1686148150075",
+      "timeStampAlarmStart": "1686148146992",
+      "userId": "Gabriel"
+    },
+    "1686148158550": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "Touch",
+      "responseTime": "2461",
+      "timeStampAlarmSop": "1686148158549",
+      "timeStampAlarmStart": "1686148156088",
+      "userId": "Gabriel"
+    },
+    "1686148286855": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "3602",
+      "timeStampAlarmSop": "1686148286854",
+      "timeStampAlarmStart": "1686148283252",
+      "userId": "Gabriel"
+    },
+    "1686148295776": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "2802",
+      "timeStampAlarmSop": "1686148295776",
+      "timeStampAlarmStart": "1686148292974",
+      "userId": "Gabriel"
+    },
+    "1686148307074": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "5806",
+      "timeStampAlarmSop": "1686148307074",
+      "timeStampAlarmStart": "1686148301268",
+      "userId": "Gabriel"
+    },
+    "1686148315271": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "3002",
+      "timeStampAlarmSop": "1686148315270",
+      "timeStampAlarmStart": "1686148312268",
+      "userId": "Gabriel"
+    },
+    "1686148356256": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "3008",
+      "timeStampAlarmSop": "1686148356255",
+      "timeStampAlarmStart": "1686148353247",
+      "userId": "Gabriel"
+    },
+    "1686148364514": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "3006",
+      "timeStampAlarmSop": "1686148364513",
+      "timeStampAlarmStart": "1686148361507",
+      "userId": "Gabriel"
+    },
+    "1686148372142": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "2008",
+      "timeStampAlarmSop": "1686148372142",
+      "timeStampAlarmStart": "1686148370134",
+      "userId": "Gabriel"
+    },
+    "1686148380566": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "2220",
+      "timeStampAlarmSop": "1686148380560",
+      "timeStampAlarmStart": "1686148378340",
+      "userId": "Gabriel"
+    },
+    "1686148426325": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "Touch",
+      "responseTime": "3193",
+      "timeStampAlarmSop": "1686148426324",
+      "timeStampAlarmStart": "1686148423131",
+      "userId": "Gabriel"
+    },
+    "1686148435463": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "Touch",
+      "responseTime": "3004",
+      "timeStampAlarmSop": "1686148435462",
+      "timeStampAlarmStart": "1686148432458",
+      "userId": "Gabriel"
+    },
+    "1686148443952": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "Touch",
+      "responseTime": "2802",
+      "timeStampAlarmSop": "1686148443951",
+      "timeStampAlarmStart": "1686148441149",
+      "userId": "Gabriel"
+    },
+    "1686148454126": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "Touch",
+      "responseTime": "3109",
+      "timeStampAlarmSop": "1686148454125",
+      "timeStampAlarmStart": "1686148451016",
+      "userId": "Gabriel"
+    },
+    "1686148491953": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "3005",
+      "timeStampAlarmSop": "1686148491953",
+      "timeStampAlarmStart": "1686148488948",
+      "userId": "Gabriel"
+    },
+    "1686148500826": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "2405",
+      "timeStampAlarmSop": "1686148500825",
+      "timeStampAlarmStart": "1686148498420",
+      "userId": "Gabriel"
+    },
+    "1686148511961": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "4013",
+      "timeStampAlarmSop": "1686148511961",
+      "timeStampAlarmStart": "1686148507948",
+      "userId": "Gabriel"
+    },
+    "1686148520982": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "2202",
+      "timeStampAlarmSop": "1686148520981",
+      "timeStampAlarmStart": "1686148518779",
+      "userId": "Gabriel"
+    }
+  },
+  "Katrine": {
+    "1686140921099": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Sit",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "4857",
+      "timeStampAlarmSop": "1686140921098",
+      "timeStampAlarmStart": "1686140916241",
+      "userId": "Katrine"
+    },
+    "1686140931596": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Sit",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "5007",
+      "timeStampAlarmSop": "1686140931589",
+      "timeStampAlarmStart": "1686140926582",
+      "userId": "Katrine"
+    },
+    "1686140944153": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Sit",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "6609",
+      "timeStampAlarmSop": "1686140944153",
+      "timeStampAlarmStart": "1686140937544",
+      "userId": "Katrine"
+    },
+    "1686140954220": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Sit",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "3009",
+      "timeStampAlarmSop": "1686140954219",
+      "timeStampAlarmStart": "1686140951210",
+      "userId": "Katrine"
+    },
+    "1686140988044": {
+      "actualGesture": "Touch",
+      "contextId": "Sit",
+      "expectedGesture": "Touch",
+      "responseTime": "2172",
+      "timeStampAlarmSop": "1686140988044",
+      "timeStampAlarmStart": "1686140985872",
+      "userId": "Katrine"
+    },
+    "1686140996681": {
+      "actualGesture": "Touch",
+      "contextId": "Sit",
+      "expectedGesture": "Touch",
+      "responseTime": "1806",
+      "timeStampAlarmSop": "1686140996679",
+      "timeStampAlarmStart": "1686140994873",
+      "userId": "Katrine"
+    },
+    "1686141004652": {
+      "actualGesture": "Touch",
+      "contextId": "Sit",
+      "expectedGesture": "Touch",
+      "responseTime": "2112",
+      "timeStampAlarmSop": "1686141004651",
+      "timeStampAlarmStart": "1686141002539",
+      "userId": "Katrine"
+    },
+    "1686141012230": {
+      "actualGesture": "Touch",
+      "contextId": "Sit",
+      "expectedGesture": "Touch",
+      "responseTime": "1890",
+      "timeStampAlarmSop": "1686141012228",
+      "timeStampAlarmStart": "1686141010338",
+      "userId": "Katrine"
+    },
+    "1686141067351": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Sit",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "7205",
+      "timeStampAlarmSop": "1686141067350",
+      "timeStampAlarmStart": "1686141060145",
+      "userId": "Katrine"
+    },
+    "1686141080858": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Sit",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "6805",
+      "timeStampAlarmSop": "1686141080858",
+      "timeStampAlarmStart": "1686141074053",
+      "userId": "Katrine"
+    },
+    "1686141090620": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Sit",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "2806",
+      "timeStampAlarmSop": "1686141090619",
+      "timeStampAlarmStart": "1686141087813",
+      "userId": "Katrine"
+    },
+    "1686141098747": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Sit",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "2816",
+      "timeStampAlarmSop": "1686141098746",
+      "timeStampAlarmStart": "1686141095930",
+      "userId": "Katrine"
+    },
+    "1686141136845": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Sit",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "2412",
+      "timeStampAlarmSop": "1686141136844",
+      "timeStampAlarmStart": "1686141134432",
+      "userId": "Katrine"
+    },
+    "1686141144699": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Sit",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "2410",
+      "timeStampAlarmSop": "1686141144698",
+      "timeStampAlarmStart": "1686141142288",
+      "userId": "Katrine"
+    },
+    "1686141152853": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Sit",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "2404",
+      "timeStampAlarmSop": "1686141152853",
+      "timeStampAlarmStart": "1686141150449",
+      "userId": "Katrine"
+    },
+    "1686141164843": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Sit",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "6199",
+      "timeStampAlarmSop": "1686141164842",
+      "timeStampAlarmStart": "1686141158643",
+      "userId": "Katrine"
+    },
+    "1686141289758": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "2807",
+      "timeStampAlarmSop": "1686141289758",
+      "timeStampAlarmStart": "1686141286951",
+      "userId": "Katrine"
+    },
+    "1686141298917": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "2608",
+      "timeStampAlarmSop": "1686141298917",
+      "timeStampAlarmStart": "1686141296309",
+      "userId": "Katrine"
+    },
+    "1686141307265": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "2808",
+      "timeStampAlarmSop": "1686141307264",
+      "timeStampAlarmStart": "1686141304456",
+      "userId": "Katrine"
+    },
+    "1686141318233": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "3805",
+      "timeStampAlarmSop": "1686141318232",
+      "timeStampAlarmStart": "1686141314427",
+      "userId": "Katrine"
+    },
+    "1686141380832": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "3400",
+      "timeStampAlarmSop": "1686141380831",
+      "timeStampAlarmStart": "1686141377431",
+      "userId": "Katrine"
+    },
+    "1686141390656": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "3200",
+      "timeStampAlarmSop": "1686141390652",
+      "timeStampAlarmStart": "1686141387452",
+      "userId": "Katrine"
+    },
+    "1686141405359": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "7998",
+      "timeStampAlarmSop": "1686141405359",
+      "timeStampAlarmStart": "1686141397361",
+      "userId": "Katrine"
+    },
+    "1686141414025": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "3007",
+      "timeStampAlarmSop": "1686141414024",
+      "timeStampAlarmStart": "1686141411017",
+      "userId": "Katrine"
+    },
+    "1686141469713": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "Touch",
+      "responseTime": "2221",
+      "timeStampAlarmSop": "1686141469712",
+      "timeStampAlarmStart": "1686141467491",
+      "userId": "Katrine"
+    },
+    "1686141478728": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "Touch",
+      "responseTime": "2749",
+      "timeStampAlarmSop": "1686141478727",
+      "timeStampAlarmStart": "1686141475978",
+      "userId": "Katrine"
+    },
+    "1686141487599": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "Touch",
+      "responseTime": "2274",
+      "timeStampAlarmSop": "1686141487599",
+      "timeStampAlarmStart": "1686141485325",
+      "userId": "Katrine"
+    },
+    "1686141532340": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "3408",
+      "timeStampAlarmSop": "1686141532339",
+      "timeStampAlarmStart": "1686141528931",
+      "userId": "Katrine"
+    },
+    "1686141542057": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "3217",
+      "timeStampAlarmSop": "1686141542056",
+      "timeStampAlarmStart": "1686141538839",
+      "userId": "Katrine"
+    },
+    "1686141550707": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "1582",
+      "timeStampAlarmSop": "1686141550706",
+      "timeStampAlarmStart": "1686141549124",
+      "userId": "Katrine"
+    },
+    "1686141559136": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "2406",
+      "timeStampAlarmSop": "1686141559135",
+      "timeStampAlarmStart": "1686141556729",
+      "userId": "Katrine"
+    },
+    "1686141659986": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "Touch",
+      "responseTime": "3046",
+      "timeStampAlarmSop": "1686141659985",
+      "timeStampAlarmStart": "1686141656939",
+      "userId": "Katrine"
+    },
+    "1686141668636": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "Touch",
+      "responseTime": "2537",
+      "timeStampAlarmSop": "1686141668635",
+      "timeStampAlarmStart": "1686141666098",
+      "userId": "Katrine"
+    },
+    "1686141676586": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "Touch",
+      "responseTime": "2467",
+      "timeStampAlarmSop": "1686141676586",
+      "timeStampAlarmStart": "1686141674119",
+      "userId": "Katrine"
+    },
+    "1686141684279": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "Touch",
+      "responseTime": "2513",
+      "timeStampAlarmSop": "1686141684279",
+      "timeStampAlarmStart": "1686141681766",
+      "userId": "Katrine"
+    },
+    "1686141788365": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "7210",
+      "timeStampAlarmSop": "1686141788364",
+      "timeStampAlarmStart": "1686141781154",
+      "userId": "Katrine"
+    },
+    "1686141797054": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "3414",
+      "timeStampAlarmSop": "1686141797053",
+      "timeStampAlarmStart": "1686141793639",
+      "userId": "Katrine"
+    },
+    "1686141806102": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "3409",
+      "timeStampAlarmSop": "1686141806102",
+      "timeStampAlarmStart": "1686141802693",
+      "userId": "Katrine"
+    },
+    "1686141815540": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "3203",
+      "timeStampAlarmSop": "1686141815540",
+      "timeStampAlarmStart": "1686141812337",
+      "userId": "Katrine"
+    },
+    "1686141865041": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "4198",
+      "timeStampAlarmSop": "1686141865041",
+      "timeStampAlarmStart": "1686141860843",
+      "userId": "Katrine"
+    },
+    "1686141874777": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "3605",
+      "timeStampAlarmSop": "1686141874777",
+      "timeStampAlarmStart": "1686141871172",
+      "userId": "Katrine"
+    },
+    "1686141883879": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "3398",
+      "timeStampAlarmSop": "1686141883879",
+      "timeStampAlarmStart": "1686141880481",
+      "userId": "Katrine"
+    },
+    "1686141895011": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "4003",
+      "timeStampAlarmSop": "1686141895010",
+      "timeStampAlarmStart": "1686141891007",
+      "userId": "Katrine"
+    },
+    "1686141953518": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "4206",
+      "timeStampAlarmSop": "1686141953518",
+      "timeStampAlarmStart": "1686141949312",
+      "userId": "Katrine"
+    },
+    "1686141963186": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "3204",
+      "timeStampAlarmSop": "1686141963186",
+      "timeStampAlarmStart": "1686141959982",
+      "userId": "Katrine"
+    },
+    "1686141973709": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "3402",
+      "timeStampAlarmSop": "1686141973709",
+      "timeStampAlarmStart": "1686141970307",
+      "userId": "Katrine"
+    },
+    "1686141983332": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "2801",
+      "timeStampAlarmSop": "1686141983331",
+      "timeStampAlarmStart": "1686141980530",
+      "userId": "Katrine"
+    }
+  },
+  "Lotte": {
+    "1686144794476": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Sit",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "7830",
+      "timeStampAlarmSop": "1686144794475",
+      "timeStampAlarmStart": "1686144786645",
+      "userId": "Lotte"
+    },
+    "1686144802369": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Sit",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "null",
+      "timeStampAlarmSop": "0",
+      "timeStampAlarmStart": "1686144799969",
+      "userId": "Lotte"
+    },
+    "1686144803581": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Sit",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "3611",
+      "timeStampAlarmSop": "1686144803580",
+      "timeStampAlarmStart": "1686144799969",
+      "userId": "Lotte"
+    },
+    "1686144813922": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Sit",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "4410",
+      "timeStampAlarmSop": "1686144813921",
+      "timeStampAlarmStart": "1686144809511",
+      "userId": "Lotte"
+    },
+    "1686144825168": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Sit",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "4206",
+      "timeStampAlarmSop": "1686144825167",
+      "timeStampAlarmStart": "1686144820961",
+      "userId": "Lotte"
+    },
+    "1686144888559": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Sit",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "3602",
+      "timeStampAlarmSop": "1686144888558",
+      "timeStampAlarmStart": "1686144884956",
+      "userId": "Lotte"
+    },
+    "1686144898165": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Sit",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "2808",
+      "timeStampAlarmSop": "1686144898164",
+      "timeStampAlarmStart": "1686144895356",
+      "userId": "Lotte"
+    },
+    "1686144906213": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Sit",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "2212",
+      "timeStampAlarmSop": "1686144906212",
+      "timeStampAlarmStart": "1686144904000",
+      "userId": "Lotte"
+    },
+    "1686144914335": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Sit",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "2413",
+      "timeStampAlarmSop": "1686144914334",
+      "timeStampAlarmStart": "1686144911921",
+      "userId": "Lotte"
+    },
+    "1686144951670": {
+      "actualGesture": "Touch",
+      "contextId": "Sit",
+      "expectedGesture": "Touch",
+      "responseTime": "3427",
+      "timeStampAlarmSop": "1686144951669",
+      "timeStampAlarmStart": "1686144948242",
+      "userId": "Lotte"
+    },
+    "1686144961052": {
+      "actualGesture": "Touch",
+      "contextId": "Sit",
+      "expectedGesture": "Touch",
+      "responseTime": "2670",
+      "timeStampAlarmSop": "1686144961052",
+      "timeStampAlarmStart": "1686144958382",
+      "userId": "Lotte"
+    },
+    "1686144970487": {
+      "actualGesture": "Touch",
+      "contextId": "Sit",
+      "expectedGesture": "Touch",
+      "responseTime": "2499",
+      "timeStampAlarmSop": "1686144970487",
+      "timeStampAlarmStart": "1686144967988",
+      "userId": "Lotte"
+    },
+    "1686144978553": {
+      "actualGesture": "Touch",
+      "contextId": "Sit",
+      "expectedGesture": "Touch",
+      "responseTime": "2756",
+      "timeStampAlarmSop": "1686144978552",
+      "timeStampAlarmStart": "1686144975796",
+      "userId": "Lotte"
+    },
+    "1686145061634": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Sit",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "null",
+      "timeStampAlarmSop": "0",
+      "timeStampAlarmStart": "1686145056833",
+      "userId": "Lotte"
+    },
+    "1686145064445": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Sit",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "7611",
+      "timeStampAlarmSop": "1686145064444",
+      "timeStampAlarmStart": "1686145056833",
+      "userId": "Lotte"
+    },
+    "1686145072055": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Sit",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "2211",
+      "timeStampAlarmSop": "1686145072054",
+      "timeStampAlarmStart": "1686145069843",
+      "userId": "Lotte"
+    },
+    "1686145080034": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Sit",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "2208",
+      "timeStampAlarmSop": "1686145080033",
+      "timeStampAlarmStart": "1686145077825",
+      "userId": "Lotte"
+    },
+    "1686145087852": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Sit",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "2004",
+      "timeStampAlarmSop": "1686145087851",
+      "timeStampAlarmStart": "1686145085847",
+      "userId": "Lotte"
+    },
+    "1686145260787": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "4374",
+      "timeStampAlarmSop": "1686145260786",
+      "timeStampAlarmStart": "1686145256412",
+      "userId": "Lotte"
+    },
+    "1686145269903": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "2614",
+      "timeStampAlarmSop": "1686145269903",
+      "timeStampAlarmStart": "1686145267289",
+      "userId": "Lotte"
+    },
+    "1686145278257": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "2811",
+      "timeStampAlarmSop": "1686145278256",
+      "timeStampAlarmStart": "1686145275445",
+      "userId": "Lotte"
+    },
+    "1686145288211": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "2807",
+      "timeStampAlarmSop": "1686145288210",
+      "timeStampAlarmStart": "1686145285403",
+      "userId": "Lotte"
+    },
+    "1686145288828": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "3424",
+      "timeStampAlarmSop": "1686145288827",
+      "timeStampAlarmStart": "1686145285403",
+      "userId": "Lotte"
+    },
+    "1686145626679": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "2995",
+      "timeStampAlarmSop": "1686145626678",
+      "timeStampAlarmStart": "1686145623683",
+      "userId": "Lotte"
+    },
+    "1686145634374": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "2205",
+      "timeStampAlarmSop": "1686145634373",
+      "timeStampAlarmStart": "1686145632168",
+      "userId": "Lotte"
+    },
+    "1686145642528": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "2209",
+      "timeStampAlarmSop": "1686145642527",
+      "timeStampAlarmStart": "1686145640318",
+      "userId": "Lotte"
+    },
+    "1686145651596": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "2009",
+      "timeStampAlarmSop": "1686145651595",
+      "timeStampAlarmStart": "1686145649586",
+      "userId": "Lotte"
+    },
+    "1686145866952": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "3878",
+      "timeStampAlarmSop": "1686145866951",
+      "timeStampAlarmStart": "1686145863073",
+      "userId": "Lotte"
+    },
+    "1686145875248": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "2808",
+      "timeStampAlarmSop": "1686145875244",
+      "timeStampAlarmStart": "1686145872436",
+      "userId": "Lotte"
+    },
+    "1686145883996": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "2811",
+      "timeStampAlarmSop": "1686145883996",
+      "timeStampAlarmStart": "1686145881185",
+      "userId": "Lotte"
+    },
+    "1686145893448": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "2413",
+      "timeStampAlarmSop": "1686145893447",
+      "timeStampAlarmStart": "1686145891034",
+      "userId": "Lotte"
+    },
+    "1686145894042": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "3007",
+      "timeStampAlarmSop": "1686145894041",
+      "timeStampAlarmStart": "1686145891034",
+      "userId": "Lotte"
+    },
+    "1686146073911": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "Touch",
+      "responseTime": "1881",
+      "timeStampAlarmSop": "1686146073911",
+      "timeStampAlarmStart": "1686146072030",
+      "userId": "Lotte"
+    },
+    "1686146081188": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "Touch",
+      "responseTime": "1989",
+      "timeStampAlarmSop": "1686146081187",
+      "timeStampAlarmStart": "1686146079198",
+      "userId": "Lotte"
+    },
+    "1686146131573": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "3810",
+      "timeStampAlarmSop": "1686146131571",
+      "timeStampAlarmStart": "1686146127761",
+      "userId": "Lotte"
+    },
+    "1686146139197": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "2206",
+      "timeStampAlarmSop": "1686146139196",
+      "timeStampAlarmStart": "1686146136990",
+      "userId": "Lotte"
+    },
+    "1686146147381": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "2411",
+      "timeStampAlarmSop": "1686146147380",
+      "timeStampAlarmStart": "1686146144969",
+      "userId": "Lotte"
+    },
+    "1686146156998": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "3812",
+      "timeStampAlarmSop": "1686146156995",
+      "timeStampAlarmStart": "1686146153183",
+      "userId": "Lotte"
+    },
+    "1686146219429": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "3005",
+      "timeStampAlarmSop": "1686146219428",
+      "timeStampAlarmStart": "1686146216423",
+      "userId": "Lotte"
+    },
+    "1686146228954": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "3010",
+      "timeStampAlarmSop": "1686146228954",
+      "timeStampAlarmStart": "1686146225944",
+      "userId": "Lotte"
+    },
+    "1686146238116": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "3606",
+      "timeStampAlarmSop": "1686146238116",
+      "timeStampAlarmStart": "1686146234510",
+      "userId": "Lotte"
+    },
+    "1686146247866": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "2612",
+      "timeStampAlarmSop": "1686146247865",
+      "timeStampAlarmStart": "1686146245253",
+      "userId": "Lotte"
+    },
+    "1686146319697": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "4610",
+      "timeStampAlarmSop": "1686146319691",
+      "timeStampAlarmStart": "1686146315081",
+      "userId": "Lotte"
+    },
+    "1686146328395": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "null",
+      "timeStampAlarmSop": "0",
+      "timeStampAlarmStart": "1686146326192",
+      "userId": "Lotte"
+    },
+    "1686146329205": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "3013",
+      "timeStampAlarmSop": "1686146329205",
+      "timeStampAlarmStart": "1686146326192",
+      "userId": "Lotte"
+    },
+    "1686146338085": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "null",
+      "timeStampAlarmSop": "0",
+      "timeStampAlarmStart": "1686146335880",
+      "userId": "Lotte"
+    },
+    "1686146338895": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "3014",
+      "timeStampAlarmSop": "1686146338894",
+      "timeStampAlarmStart": "1686146335880",
+      "userId": "Lotte"
+    },
+    "1686146347954": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "3411",
+      "timeStampAlarmSop": "1686146347953",
+      "timeStampAlarmStart": "1686146344542",
+      "userId": "Lotte"
+    }
+  },
+  "bob": {
+    "1685890173579": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "1730",
+      "timeStampAlarmSop": "1685890173579",
+      "timeStampAlarmStart": "1685890171849",
+      "userId": "bob"
+    },
+    "1685890182082": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "2220",
+      "timeStampAlarmSop": "1685890182081",
+      "timeStampAlarmStart": "1685890179861",
+      "userId": "bob"
+    },
+    "1685890188572": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "null",
+      "timeStampAlarmSop": "0",
+      "timeStampAlarmStart": "1685890187755",
+      "userId": "bob"
+    },
+    "1685890192575": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "4819",
+      "timeStampAlarmSop": "1685890192574",
+      "timeStampAlarmStart": "1685890187755",
+      "userId": "bob"
+    },
+    "1685890203519": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "null",
+      "timeStampAlarmSop": "0",
+      "timeStampAlarmStart": "1685890199104",
+      "userId": "bob"
+    },
+    "1685890207921": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "8816",
+      "timeStampAlarmSop": "1685890207920",
+      "timeStampAlarmStart": "1685890199104",
+      "userId": "bob"
+    }
+  },
+  "chris": {
+    "1685975526989": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Sit",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "10804",
+      "timeStampAlarmSop": "1685975526988",
+      "timeStampAlarmStart": "1685975516184",
+      "userId": "chris"
+    },
+    "1685975537275": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Sit",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "4012",
+      "timeStampAlarmSop": "1685975537275",
+      "timeStampAlarmStart": "1685975533263",
+      "userId": "chris"
+    },
+    "1685975547665": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Sit",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "4411",
+      "timeStampAlarmSop": "1685975547664",
+      "timeStampAlarmStart": "1685975543253",
+      "userId": "chris"
+    },
+    "1685975558130": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Sit",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "3611",
+      "timeStampAlarmSop": "1685975558129",
+      "timeStampAlarmStart": "1685975554518",
+      "userId": "chris"
+    },
+    "1685975645705": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Sit",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "5014",
+      "timeStampAlarmSop": "1685975645704",
+      "timeStampAlarmStart": "1685975640690",
+      "userId": "chris"
+    },
+    "1685975653590": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Sit",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "2414",
+      "timeStampAlarmSop": "1685975653589",
+      "timeStampAlarmStart": "1685975651175",
+      "userId": "chris"
+    },
+    "1685975662678": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Sit",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "2013",
+      "timeStampAlarmSop": "1685975662677",
+      "timeStampAlarmStart": "1685975660664",
+      "userId": "chris"
+    },
+    "1685975671738": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Sit",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "2412",
+      "timeStampAlarmSop": "1685975671738",
+      "timeStampAlarmStart": "1685975669326",
+      "userId": "chris"
+    },
+    "1685975727700": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Sit",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "4010",
+      "timeStampAlarmSop": "1685975727700",
+      "timeStampAlarmStart": "1685975723690",
+      "userId": "chris"
+    },
+    "1685975736628": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Sit",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "3412",
+      "timeStampAlarmSop": "1685975736628",
+      "timeStampAlarmStart": "1685975733216",
+      "userId": "chris"
+    },
+    "1685975745484": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Sit",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "3213",
+      "timeStampAlarmSop": "1685975745484",
+      "timeStampAlarmStart": "1685975742271",
+      "userId": "chris"
+    },
+    "1685975756154": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Sit",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "3612",
+      "timeStampAlarmSop": "1685975756154",
+      "timeStampAlarmStart": "1685975752542",
+      "userId": "chris"
+    },
+    "1685975787876": {
+      "actualGesture": "Touch",
+      "contextId": "Sit",
+      "expectedGesture": "Touch",
+      "responseTime": "3671",
+      "timeStampAlarmSop": "1685975787875",
+      "timeStampAlarmStart": "1685975784204",
+      "userId": "chris"
+    },
+    "1685975795978": {
+      "actualGesture": "Touch",
+      "contextId": "Sit",
+      "expectedGesture": "Touch",
+      "responseTime": "2976",
+      "timeStampAlarmSop": "1685975795978",
+      "timeStampAlarmStart": "1685975793002",
+      "userId": "chris"
+    },
+    "1685975804825": {
+      "actualGesture": "Touch",
+      "contextId": "Sit",
+      "expectedGesture": "Touch",
+      "responseTime": "3025",
+      "timeStampAlarmSop": "1685975804824",
+      "timeStampAlarmStart": "1685975801799",
+      "userId": "chris"
+    },
+    "1685975813203": {
+      "actualGesture": "Touch",
+      "contextId": "Sit",
+      "expectedGesture": "Touch",
+      "responseTime": "2594",
+      "timeStampAlarmSop": "1685975813203",
+      "timeStampAlarmStart": "1685975810609",
+      "userId": "chris"
+    },
+    "1685975938309": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "Touch",
+      "responseTime": "4182",
+      "timeStampAlarmSop": "1685975938309",
+      "timeStampAlarmStart": "1685975934127",
+      "userId": "chris"
+    },
+    "1685975948224": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "Touch",
+      "responseTime": "3705",
+      "timeStampAlarmSop": "1685975948224",
+      "timeStampAlarmStart": "1685975944519",
+      "userId": "chris"
+    },
+    "1685975957022": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "Touch",
+      "responseTime": "3307",
+      "timeStampAlarmSop": "1685975957022",
+      "timeStampAlarmStart": "1685975953715",
+      "userId": "chris"
+    },
+    "1685975966327": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "Touch",
+      "responseTime": "3719",
+      "timeStampAlarmSop": "1685975966327",
+      "timeStampAlarmStart": "1685975962608",
+      "userId": "chris"
+    },
+    "1685976120348": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "3610",
+      "timeStampAlarmSop": "1685976120348",
+      "timeStampAlarmStart": "1685976116738",
+      "userId": "chris"
+    },
+    "1685976129103": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "3410",
+      "timeStampAlarmSop": "1685976129102",
+      "timeStampAlarmStart": "1685976125692",
+      "userId": "chris"
+    },
+    "1685976140081": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "4012",
+      "timeStampAlarmSop": "1685976140080",
+      "timeStampAlarmStart": "1685976136068",
+      "userId": "chris"
+    },
+    "1685976150646": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "4015",
+      "timeStampAlarmSop": "1685976150646",
+      "timeStampAlarmStart": "1685976146631",
+      "userId": "chris"
+    },
+    "1685976212169": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "3811",
+      "timeStampAlarmSop": "1685976212168",
+      "timeStampAlarmStart": "1685976208357",
+      "userId": "chris"
+    },
+    "1685976222948": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "4812",
+      "timeStampAlarmSop": "1685976222947",
+      "timeStampAlarmStart": "1685976218135",
+      "userId": "chris"
+    },
+    "1685976236843": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "8213",
+      "timeStampAlarmSop": "1685976236843",
+      "timeStampAlarmStart": "1685976228630",
+      "userId": "chris"
+    },
+    "1685976247327": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "4609",
+      "timeStampAlarmSop": "1685976247327",
+      "timeStampAlarmStart": "1685976242718",
+      "userId": "chris"
+    },
+    "1685976294481": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "2403",
+      "timeStampAlarmSop": "1685976294480",
+      "timeStampAlarmStart": "1685976292077",
+      "userId": "chris"
+    },
+    "1685976303901": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "2414",
+      "timeStampAlarmSop": "1685976303901",
+      "timeStampAlarmStart": "1685976301487",
+      "userId": "chris"
+    },
+    "1685976311743": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "2413",
+      "timeStampAlarmSop": "1685976311743",
+      "timeStampAlarmStart": "1685976309330",
+      "userId": "chris"
+    },
+    "1685976320670": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "2215",
+      "timeStampAlarmSop": "1685976320669",
+      "timeStampAlarmStart": "1685976318454",
+      "userId": "chris"
+    },
+    "1685976530507": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "3612",
+      "timeStampAlarmSop": "1685976530507",
+      "timeStampAlarmStart": "1685976526895",
+      "userId": "chris"
+    },
+    "1685976540148": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "3212",
+      "timeStampAlarmSop": "1685976540147",
+      "timeStampAlarmStart": "1685976536935",
+      "userId": "chris"
+    },
+    "1685976548529": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "3212",
+      "timeStampAlarmSop": "1685976548528",
+      "timeStampAlarmStart": "1685976545316",
+      "userId": "chris"
+    },
+    "1685976558187": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "3813",
+      "timeStampAlarmSop": "1685976558186",
+      "timeStampAlarmStart": "1685976554373",
+      "userId": "chris"
+    },
+    "1685976627838": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "Touch",
+      "responseTime": "3220",
+      "timeStampAlarmSop": "1685976627838",
+      "timeStampAlarmStart": "1685976624618",
+      "userId": "chris"
+    },
+    "1685976637838": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "Touch",
+      "responseTime": "3002",
+      "timeStampAlarmSop": "1685976637837",
+      "timeStampAlarmStart": "1685976634835",
+      "userId": "chris"
+    },
+    "1685976646914": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "Touch",
+      "responseTime": "3780",
+      "timeStampAlarmSop": "1685976646914",
+      "timeStampAlarmStart": "1685976643134",
+      "userId": "chris"
+    },
+    "1685976655824": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "Touch",
+      "responseTime": "2928",
+      "timeStampAlarmSop": "1685976655824",
+      "timeStampAlarmStart": "1685976652896",
+      "userId": "chris"
+    },
+    "1685976726924": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "3803",
+      "timeStampAlarmSop": "1685976726924",
+      "timeStampAlarmStart": "1685976723121",
+      "userId": "chris"
+    },
+    "1685976738408": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "5011",
+      "timeStampAlarmSop": "1685976738408",
+      "timeStampAlarmStart": "1685976733397",
+      "userId": "chris"
+    },
+    "1685976748254": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "3011",
+      "timeStampAlarmSop": "1685976748254",
+      "timeStampAlarmStart": "1685976745243",
+      "userId": "chris"
+    },
+    "1685976758162": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "3613",
+      "timeStampAlarmSop": "1685976758161",
+      "timeStampAlarmStart": "1685976754548",
+      "userId": "chris"
+    },
+    "1685976829439": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "2412",
+      "timeStampAlarmSop": "1685976829439",
+      "timeStampAlarmStart": "1685976827027",
+      "userId": "chris"
+    },
+    "1685976837977": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "2805",
+      "timeStampAlarmSop": "1685976837977",
+      "timeStampAlarmStart": "1685976835172",
+      "userId": "chris"
+    },
+    "1685976846510": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "3008",
+      "timeStampAlarmSop": "1685976846510",
+      "timeStampAlarmStart": "1685976843502",
+      "userId": "chris"
+    },
+    "1685976855279": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "3412",
+      "timeStampAlarmSop": "1685976855278",
+      "timeStampAlarmStart": "1685976851866",
+      "userId": "chris"
+    }
+  },
+  "rasmus": {
+    "1685992204513": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Sit",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "2413",
+      "timeStampAlarmSop": "1685992204512",
+      "timeStampAlarmStart": "1685992202099",
+      "userId": "rasmus"
+    },
+    "1685992213981": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Sit",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "3609",
+      "timeStampAlarmSop": "1685992213981",
+      "timeStampAlarmStart": "1685992210372",
+      "userId": "rasmus"
+    },
+    "1685992223476": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Sit",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "2409",
+      "timeStampAlarmSop": "1685992223475",
+      "timeStampAlarmStart": "1685992221066",
+      "userId": "rasmus"
+    },
+    "1685992231151": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Sit",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "2210",
+      "timeStampAlarmSop": "1685992231150",
+      "timeStampAlarmStart": "1685992228940",
+      "userId": "rasmus"
+    },
+    "1685992265300": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Sit",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "2013",
+      "timeStampAlarmSop": "1685992265299",
+      "timeStampAlarmStart": "1685992263286",
+      "userId": "rasmus"
+    },
+    "1685992273037": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Sit",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "1813",
+      "timeStampAlarmSop": "1685992273037",
+      "timeStampAlarmStart": "1685992271224",
+      "userId": "rasmus"
+    },
+    "1685992281729": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Sit",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "1812",
+      "timeStampAlarmSop": "1685992281729",
+      "timeStampAlarmStart": "1685992279917",
+      "userId": "rasmus"
+    },
+    "1685992290075": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Sit",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "1614",
+      "timeStampAlarmSop": "1685992290075",
+      "timeStampAlarmStart": "1685992288461",
+      "userId": "rasmus"
+    },
+    "1685992318088": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Sit",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "1811",
+      "timeStampAlarmSop": "1685992318088",
+      "timeStampAlarmStart": "1685992316277",
+      "userId": "rasmus"
+    },
+    "1685992326693": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Sit",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "2213",
+      "timeStampAlarmSop": "1685992326693",
+      "timeStampAlarmStart": "1685992324480",
+      "userId": "rasmus"
+    },
+    "1685992335012": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Sit",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "1813",
+      "timeStampAlarmSop": "1685992335012",
+      "timeStampAlarmStart": "1685992333199",
+      "userId": "rasmus"
+    },
+    "1685992343065": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Sit",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "1812",
+      "timeStampAlarmSop": "1685992343065",
+      "timeStampAlarmStart": "1685992341253",
+      "userId": "rasmus"
+    },
+    "1685992454754": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "1810",
+      "timeStampAlarmSop": "1685992454754",
+      "timeStampAlarmStart": "1685992452944",
+      "userId": "rasmus"
+    },
+    "1685992463125": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "1613",
+      "timeStampAlarmSop": "1685992463125",
+      "timeStampAlarmStart": "1685992461512",
+      "userId": "rasmus"
+    },
+    "1685992471723": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "1812",
+      "timeStampAlarmSop": "1685992471723",
+      "timeStampAlarmStart": "1685992469911",
+      "userId": "rasmus"
+    },
+    "1685992479526": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "1812",
+      "timeStampAlarmSop": "1685992479526",
+      "timeStampAlarmStart": "1685992477714",
+      "userId": "rasmus"
+    },
+    "1685992545819": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "12013",
+      "timeStampAlarmSop": "1685992545818",
+      "timeStampAlarmStart": "1685992533805",
+      "userId": "rasmus"
+    },
+    "1685992561705": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "2886",
+      "timeStampAlarmSop": "1685992561705",
+      "timeStampAlarmStart": "1685992558819",
+      "userId": "rasmus"
+    },
+    "1685992570454": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "1950",
+      "timeStampAlarmSop": "1685992570454",
+      "timeStampAlarmStart": "1685992568504",
+      "userId": "rasmus"
+    },
+    "1685992608814": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "1811",
+      "timeStampAlarmSop": "1685992608814",
+      "timeStampAlarmStart": "1685992607003",
+      "userId": "rasmus"
+    },
+    "1685992617662": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "1812",
+      "timeStampAlarmSop": "1685992617662",
+      "timeStampAlarmStart": "1685992615850",
+      "userId": "rasmus"
+    },
+    "1685992626474": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "1808",
+      "timeStampAlarmSop": "1685992626474",
+      "timeStampAlarmStart": "1685992624666",
+      "userId": "rasmus"
+    },
+    "1685992634629": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "1809",
+      "timeStampAlarmSop": "1685992634629",
+      "timeStampAlarmStart": "1685992632820",
+      "userId": "rasmus"
+    },
+    "1685992770213": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "2413",
+      "timeStampAlarmSop": "1685992770213",
+      "timeStampAlarmStart": "1685992767800",
+      "userId": "rasmus"
+    },
+    "1685992777412": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "1812",
+      "timeStampAlarmSop": "1685992777412",
+      "timeStampAlarmStart": "1685992775600",
+      "userId": "rasmus"
+    },
+    "1685992785608": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "1813",
+      "timeStampAlarmSop": "1685992785608",
+      "timeStampAlarmStart": "1685992783795",
+      "userId": "rasmus"
+    },
+    "1685992793156": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "1815",
+      "timeStampAlarmSop": "1685992793155",
+      "timeStampAlarmStart": "1685992791340",
+      "userId": "rasmus"
+    },
+    "1685993074372": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "1813",
+      "timeStampAlarmSop": "1685993074371",
+      "timeStampAlarmStart": "1685993072558",
+      "userId": "rasmus"
+    },
+    "1685993081501": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "2009",
+      "timeStampAlarmSop": "1685993081501",
+      "timeStampAlarmStart": "1685993079492",
+      "userId": "rasmus"
+    },
+    "1685993089821": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "1812",
+      "timeStampAlarmSop": "1685993089820",
+      "timeStampAlarmStart": "1685993088008",
+      "userId": "rasmus"
+    },
+    "1685993098499": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "1612",
+      "timeStampAlarmSop": "1685993098499",
+      "timeStampAlarmStart": "1685993096887",
+      "userId": "rasmus"
+    },
+    "1685993142445": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "2010",
+      "timeStampAlarmSop": "1685993142445",
+      "timeStampAlarmStart": "1685993140435",
+      "userId": "rasmus"
+    },
+    "1685993151175": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "2411",
+      "timeStampAlarmSop": "1685993151175",
+      "timeStampAlarmStart": "1685993148764",
+      "userId": "rasmus"
+    },
+    "1685993160076": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "2011",
+      "timeStampAlarmSop": "1685993160075",
+      "timeStampAlarmStart": "1685993158064",
+      "userId": "rasmus"
+    },
+    "1685993168311": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "1813",
+      "timeStampAlarmSop": "1685993168311",
+      "timeStampAlarmStart": "1685993166498",
+      "userId": "rasmus"
+    },
+    "1685993216673": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "2811",
+      "timeStampAlarmSop": "1685993216673",
+      "timeStampAlarmStart": "1685993213862",
+      "userId": "rasmus"
+    },
+    "1685993223990": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "2212",
+      "timeStampAlarmSop": "1685993223989",
+      "timeStampAlarmStart": "1685993221777",
+      "userId": "rasmus"
+    },
+    "1685993233032": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "2210",
+      "timeStampAlarmSop": "1685993233032",
+      "timeStampAlarmStart": "1685993230822",
+      "userId": "rasmus"
+    },
+    "1685993241127": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "2214",
+      "timeStampAlarmSop": "1685993241127",
+      "timeStampAlarmStart": "1685993238913",
+      "userId": "rasmus"
+    }
+  },
+  "rasmus T2": {
+    "1686135100118": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "2589",
+      "timeStampAlarmSop": "1686135100117",
+      "timeStampAlarmStart": "1686135097528",
+      "userId": "rasmus T2"
+    },
+    "1686135109237": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "3615",
+      "timeStampAlarmSop": "1686135109237",
+      "timeStampAlarmStart": "1686135105622",
+      "userId": "rasmus T2"
+    },
+    "1686135123381": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "7216",
+      "timeStampAlarmSop": "1686135123380",
+      "timeStampAlarmStart": "1686135116164",
+      "userId": "rasmus T2"
+    },
+    "1686135131249": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "null",
+      "timeStampAlarmSop": "0",
+      "timeStampAlarmStart": "1686135129835",
+      "userId": "rasmus T2"
+    },
+    "1686135133647": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "3812",
+      "timeStampAlarmSop": "1686135133647",
+      "timeStampAlarmStart": "1686135129835",
+      "userId": "rasmus T2"
+    },
+    "1686135164545": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "2011",
+      "timeStampAlarmSop": "1686135164544",
+      "timeStampAlarmStart": "1686135162533",
+      "userId": "rasmus T2"
+    },
+    "1686135172381": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "2213",
+      "timeStampAlarmSop": "1686135172381",
+      "timeStampAlarmStart": "1686135170168",
+      "userId": "rasmus T2"
+    },
+    "1686135181560": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "2210",
+      "timeStampAlarmSop": "1686135181559",
+      "timeStampAlarmStart": "1686135179349",
+      "userId": "rasmus T2"
+    },
+    "1686135190362": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "2018",
+      "timeStampAlarmSop": "1686135190361",
+      "timeStampAlarmStart": "1686135188343",
+      "userId": "rasmus T2"
+    },
+    "1686135265373": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "2411",
+      "timeStampAlarmSop": "1686135265372",
+      "timeStampAlarmStart": "1686135262961",
+      "userId": "rasmus T2"
+    },
+    "1686135273502": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "2415",
+      "timeStampAlarmSop": "1686135273501",
+      "timeStampAlarmStart": "1686135271086",
+      "userId": "rasmus T2"
+    },
+    "1686135282075": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "3012",
+      "timeStampAlarmSop": "1686135282075",
+      "timeStampAlarmStart": "1686135279063",
+      "userId": "rasmus T2"
+    },
+    "1686135290215": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "2412",
+      "timeStampAlarmSop": "1686135290215",
+      "timeStampAlarmStart": "1686135287803",
+      "userId": "rasmus T2"
+    },
+    "1686135357938": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "null",
+      "timeStampAlarmSop": "0",
+      "timeStampAlarmStart": "1686135354136",
+      "userId": "rasmus T2"
+    },
+    "1686135358739": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "4603",
+      "timeStampAlarmSop": "1686135358739",
+      "timeStampAlarmStart": "1686135354136",
+      "userId": "rasmus T2"
+    },
+    "1686135366557": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "2412",
+      "timeStampAlarmSop": "1686135366556",
+      "timeStampAlarmStart": "1686135364144",
+      "userId": "rasmus T2"
+    },
+    "1686135375361": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "2011",
+      "timeStampAlarmSop": "1686135375361",
+      "timeStampAlarmStart": "1686135373350",
+      "userId": "rasmus T2"
+    },
+    "1686135385224": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "3010",
+      "timeStampAlarmSop": "1686135385224",
+      "timeStampAlarmStart": "1686135382214",
+      "userId": "rasmus T2"
+    },
+    "1686135442253": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "null",
+      "timeStampAlarmSop": "0",
+      "timeStampAlarmStart": "1686135440041",
+      "userId": "rasmus T2"
+    },
+    "1686135443253": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "3212",
+      "timeStampAlarmSop": "1686135443253",
+      "timeStampAlarmStart": "1686135440041",
+      "userId": "rasmus T2"
+    },
+    "1686135452406": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "2211",
+      "timeStampAlarmSop": "1686135452405",
+      "timeStampAlarmStart": "1686135450194",
+      "userId": "rasmus T2"
+    },
+    "1686135460346": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "2011",
+      "timeStampAlarmSop": "1686135460346",
+      "timeStampAlarmStart": "1686135458335",
+      "userId": "rasmus T2"
+    },
+    "1686135470034": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "2610",
+      "timeStampAlarmSop": "1686135470033",
+      "timeStampAlarmStart": "1686135467423",
+      "userId": "rasmus T2"
+    },
+    "1686135522134": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "null",
+      "timeStampAlarmSop": "0",
+      "timeStampAlarmStart": "1686135518722",
+      "userId": "rasmus T2"
+    },
+    "1686135525735": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "null",
+      "timeStampAlarmSop": "0",
+      "timeStampAlarmStart": "1686135518722",
+      "userId": "rasmus T2"
+    },
+    "1686135526336": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "null",
+      "timeStampAlarmSop": "0",
+      "timeStampAlarmStart": "1686135518722",
+      "userId": "rasmus T2"
+    },
+    "1686135527535": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "8813",
+      "timeStampAlarmSop": "1686135527535",
+      "timeStampAlarmStart": "1686135518722",
+      "userId": "rasmus T2"
+    },
+    "1686135537235": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "3010",
+      "timeStampAlarmSop": "1686135537235",
+      "timeStampAlarmStart": "1686135534225",
+      "userId": "rasmus T2"
+    },
+    "1686135545461": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "2413",
+      "timeStampAlarmSop": "1686135545461",
+      "timeStampAlarmStart": "1686135543048",
+      "userId": "rasmus T2"
+    },
+    "1686135555048": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "3410",
+      "timeStampAlarmSop": "1686135555046",
+      "timeStampAlarmStart": "1686135551636",
+      "userId": "rasmus T2"
+    }
+  },
+  "sarah": {
+    "1685964550170": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Sit",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "null",
+      "timeStampAlarmSop": "0",
+      "timeStampAlarmStart": "1685964546392",
+      "userId": "sarah"
+    },
+    "1685964552377": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Sit",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "5985",
+      "timeStampAlarmSop": "1685964552377",
+      "timeStampAlarmStart": "1685964546392",
+      "userId": "sarah"
+    },
+    "1685964560807": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Sit",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "null",
+      "timeStampAlarmSop": "0",
+      "timeStampAlarmStart": "1685964558591",
+      "userId": "sarah"
+    },
+    "1685964563008": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Sit",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "4417",
+      "timeStampAlarmSop": "1685964563008",
+      "timeStampAlarmStart": "1685964558591",
+      "userId": "sarah"
+    },
+    "1685964571617": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Sit",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "2612",
+      "timeStampAlarmSop": "1685964571616",
+      "timeStampAlarmStart": "1685964569004",
+      "userId": "sarah"
+    },
+    "1685964579075": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Sit",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "null",
+      "timeStampAlarmSop": "0",
+      "timeStampAlarmStart": "1685964576859",
+      "userId": "sarah"
+    },
+    "1685964581472": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Sit",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "4612",
+      "timeStampAlarmSop": "1685964581471",
+      "timeStampAlarmStart": "1685964576859",
+      "userId": "sarah"
+    },
+    "1685964614154": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Sit",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "null",
+      "timeStampAlarmSop": "0",
+      "timeStampAlarmStart": "1685964610944",
+      "userId": "sarah"
+    },
+    "1685964614756": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Sit",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "3812",
+      "timeStampAlarmSop": "1685964614756",
+      "timeStampAlarmStart": "1685964610944",
+      "userId": "sarah"
+    },
+    "1685964625204": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Sit",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "null",
+      "timeStampAlarmSop": "0",
+      "timeStampAlarmStart": "1685964621193",
+      "userId": "sarah"
+    },
+    "1685964626808": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Sit",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "null",
+      "timeStampAlarmSop": "0",
+      "timeStampAlarmStart": "1685964621193",
+      "userId": "sarah"
+    },
+    "1685964627605": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Sit",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "6412",
+      "timeStampAlarmSop": "1685964627605",
+      "timeStampAlarmStart": "1685964621193",
+      "userId": "sarah"
+    },
+    "1685964635791": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Sit",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "null",
+      "timeStampAlarmSop": "0",
+      "timeStampAlarmStart": "1685964633380",
+      "userId": "sarah"
+    },
+    "1685964638195": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Sit",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "4814",
+      "timeStampAlarmSop": "1685964638194",
+      "timeStampAlarmStart": "1685964633380",
+      "userId": "sarah"
+    },
+    "1685964647022": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Sit",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "2613",
+      "timeStampAlarmSop": "1685964647022",
+      "timeStampAlarmStart": "1685964644409",
+      "userId": "sarah"
+    },
+    "1685964671918": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Sit",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "3610",
+      "timeStampAlarmSop": "1685964671917",
+      "timeStampAlarmStart": "1685964668307",
+      "userId": "sarah"
+    },
+    "1685964681218": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Sit",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "2608",
+      "timeStampAlarmSop": "1685964681217",
+      "timeStampAlarmStart": "1685964678609",
+      "userId": "sarah"
+    },
+    "1685964689583": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Sit",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "3011",
+      "timeStampAlarmSop": "1685964689583",
+      "timeStampAlarmStart": "1685964686572",
+      "userId": "sarah"
+    },
+    "1685964698477": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Sit",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "2610",
+      "timeStampAlarmSop": "1685964698476",
+      "timeStampAlarmStart": "1685964695866",
+      "userId": "sarah"
+    },
+    "1685964726813": {
+      "actualGesture": "Touch",
+      "contextId": "Sit",
+      "expectedGesture": "Touch",
+      "responseTime": "2906",
+      "timeStampAlarmSop": "1685964726813",
+      "timeStampAlarmStart": "1685964723907",
+      "userId": "sarah"
+    },
+    "1685964736161": {
+      "actualGesture": "Touch",
+      "contextId": "Sit",
+      "expectedGesture": "Touch",
+      "responseTime": "2951",
+      "timeStampAlarmSop": "1685964736160",
+      "timeStampAlarmStart": "1685964733209",
+      "userId": "sarah"
+    },
+    "1685964744980": {
+      "actualGesture": "Touch",
+      "contextId": "Sit",
+      "expectedGesture": "Touch",
+      "responseTime": "2518",
+      "timeStampAlarmSop": "1685964744980",
+      "timeStampAlarmStart": "1685964742462",
+      "userId": "sarah"
+    },
+    "1685964753288": {
+      "actualGesture": "Touch",
+      "contextId": "Sit",
+      "expectedGesture": "Touch",
+      "responseTime": "2469",
+      "timeStampAlarmSop": "1685964753288",
+      "timeStampAlarmStart": "1685964750819",
+      "userId": "sarah"
+    },
+    "1685964845530": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "3015",
+      "timeStampAlarmSop": "1685964845529",
+      "timeStampAlarmStart": "1685964842514",
+      "userId": "sarah"
+    },
+    "1685964854299": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "3213",
+      "timeStampAlarmSop": "1685964854298",
+      "timeStampAlarmStart": "1685964851085",
+      "userId": "sarah"
+    },
+    "1685964864199": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "3012",
+      "timeStampAlarmSop": "1685964864199",
+      "timeStampAlarmStart": "1685964861187",
+      "userId": "sarah"
+    },
+    "1685964873831": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "3214",
+      "timeStampAlarmSop": "1685964873830",
+      "timeStampAlarmStart": "1685964870616",
+      "userId": "sarah"
+    },
+    "1685964931508": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "4009",
+      "timeStampAlarmSop": "1685964931508",
+      "timeStampAlarmStart": "1685964927499",
+      "userId": "sarah"
+    },
+    "1685964940743": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "3614",
+      "timeStampAlarmSop": "1685964940743",
+      "timeStampAlarmStart": "1685964937129",
+      "userId": "sarah"
+    },
+    "1685964951309": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "3613",
+      "timeStampAlarmSop": "1685964951309",
+      "timeStampAlarmStart": "1685964947696",
+      "userId": "sarah"
+    },
+    "1685964961505": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "3411",
+      "timeStampAlarmSop": "1685964961505",
+      "timeStampAlarmStart": "1685964958094",
+      "userId": "sarah"
+    },
+    "1685965010741": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "Touch",
+      "responseTime": "4474",
+      "timeStampAlarmSop": "1685965010741",
+      "timeStampAlarmStart": "1685965006267",
+      "userId": "sarah"
+    },
+    "1685965020100": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "Touch",
+      "responseTime": "3672",
+      "timeStampAlarmSop": "1685965020099",
+      "timeStampAlarmStart": "1685965016427",
+      "userId": "sarah"
+    },
+    "1685965028866": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "Touch",
+      "responseTime": "3231",
+      "timeStampAlarmSop": "1685965028865",
+      "timeStampAlarmStart": "1685965025634",
+      "userId": "sarah"
+    },
+    "1685965037888": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "Touch",
+      "responseTime": "3309",
+      "timeStampAlarmSop": "1685965037888",
+      "timeStampAlarmStart": "1685965034579",
+      "userId": "sarah"
+    },
+    "1685965080393": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "3211",
+      "timeStampAlarmSop": "1685965080393",
+      "timeStampAlarmStart": "1685965077182",
+      "userId": "sarah"
+    },
+    "1685965088618": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "2813",
+      "timeStampAlarmSop": "1685965088617",
+      "timeStampAlarmStart": "1685965085804",
+      "userId": "sarah"
+    },
+    "1685965098037": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "2613",
+      "timeStampAlarmSop": "1685965098037",
+      "timeStampAlarmStart": "1685965095424",
+      "userId": "sarah"
+    },
+    "1685965107519": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Reading out loud)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "2612",
+      "timeStampAlarmSop": "1685965107518",
+      "timeStampAlarmStart": "1685965104906",
+      "userId": "sarah"
+    },
+    "1685965172539": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "null",
+      "timeStampAlarmSop": "0",
+      "timeStampAlarmStart": "1685965169731",
+      "userId": "sarah"
+    },
+    "1685965173539": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "null",
+      "timeStampAlarmSop": "0",
+      "timeStampAlarmStart": "1685965169731",
+      "userId": "sarah"
+    },
+    "1685965174540": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "null",
+      "timeStampAlarmSop": "0",
+      "timeStampAlarmStart": "1685965169731",
+      "userId": "sarah"
+    },
+    "1685965175141": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "null",
+      "timeStampAlarmSop": "0",
+      "timeStampAlarmStart": "1685965169731",
+      "userId": "sarah"
+    },
+    "1685965175940": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "null",
+      "timeStampAlarmSop": "0",
+      "timeStampAlarmStart": "1685965169731",
+      "userId": "sarah"
+    },
+    "1685965176741": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "null",
+      "timeStampAlarmSop": "0",
+      "timeStampAlarmStart": "1685965169731",
+      "userId": "sarah"
+    },
+    "1685965177740": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "null",
+      "timeStampAlarmSop": "0",
+      "timeStampAlarmStart": "1685965169731",
+      "userId": "sarah"
+    },
+    "1685965179341": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "null",
+      "timeStampAlarmSop": "0",
+      "timeStampAlarmStart": "1685965169731",
+      "userId": "sarah"
+    },
+    "1685965179941": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "null",
+      "timeStampAlarmSop": "0",
+      "timeStampAlarmStart": "1685965169731",
+      "userId": "sarah"
+    },
+    "1685965180941": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "null",
+      "timeStampAlarmSop": "0",
+      "timeStampAlarmStart": "1685965169731",
+      "userId": "sarah"
+    },
+    "1685965182381": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "12650",
+      "timeStampAlarmSop": "1685965182381",
+      "timeStampAlarmStart": "1685965169731",
+      "userId": "sarah"
+    },
+    "1685965191003": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "1676",
+      "timeStampAlarmSop": "1685965191003",
+      "timeStampAlarmStart": "1685965189327",
+      "userId": "sarah"
+    },
+    "1685965199049": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "2112",
+      "timeStampAlarmSop": "1685965199049",
+      "timeStampAlarmStart": "1685965196937",
+      "userId": "sarah"
+    },
+    "1685965207553": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "1506",
+      "timeStampAlarmSop": "1685965207552",
+      "timeStampAlarmStart": "1685965206046",
+      "userId": "sarah"
+    },
+    "1685965240278": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "null",
+      "timeStampAlarmSop": "0",
+      "timeStampAlarmStart": "1685965237270",
+      "userId": "sarah"
+    },
+    "1685965241280": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "null",
+      "timeStampAlarmSop": "0",
+      "timeStampAlarmStart": "1685965237270",
+      "userId": "sarah"
+    },
+    "1685965242080": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "null",
+      "timeStampAlarmSop": "0",
+      "timeStampAlarmStart": "1685965237270",
+      "userId": "sarah"
+    },
+    "1685965242880": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "null",
+      "timeStampAlarmSop": "0",
+      "timeStampAlarmStart": "1685965237270",
+      "userId": "sarah"
+    },
+    "1685965243480": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "null",
+      "timeStampAlarmSop": "0",
+      "timeStampAlarmStart": "1685965237270",
+      "userId": "sarah"
+    },
+    "1685965244883": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "null",
+      "timeStampAlarmSop": "0",
+      "timeStampAlarmStart": "1685965237270",
+      "userId": "sarah"
+    },
+    "1685965246080": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "null",
+      "timeStampAlarmSop": "0",
+      "timeStampAlarmStart": "1685965237270",
+      "userId": "sarah"
+    },
+    "1685965246879": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "null",
+      "timeStampAlarmSop": "0",
+      "timeStampAlarmStart": "1685965237270",
+      "userId": "sarah"
+    },
+    "1685965247481": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "null",
+      "timeStampAlarmSop": "0",
+      "timeStampAlarmStart": "1685965237270",
+      "userId": "sarah"
+    },
+    "1685965249278": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "12008",
+      "timeStampAlarmSop": "1685965249278",
+      "timeStampAlarmStart": "1685965237270",
+      "userId": "sarah"
+    },
+    "1685965258994": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "3012",
+      "timeStampAlarmSop": "1685965258993",
+      "timeStampAlarmStart": "1685965255981",
+      "userId": "sarah"
+    },
+    "1685965267615": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "2813",
+      "timeStampAlarmSop": "1685965267615",
+      "timeStampAlarmStart": "1685965264802",
+      "userId": "sarah"
+    },
+    "1685965276940": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "3211",
+      "timeStampAlarmSop": "1685965276940",
+      "timeStampAlarmStart": "1685965273729",
+      "userId": "sarah"
+    },
+    "1685965364475": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "3209",
+      "timeStampAlarmSop": "1685965364475",
+      "timeStampAlarmStart": "1685965361266",
+      "userId": "sarah"
+    },
+    "1685965374048": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "3411",
+      "timeStampAlarmSop": "1685965374047",
+      "timeStampAlarmStart": "1685965370636",
+      "userId": "sarah"
+    },
+    "1685965383711": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "2813",
+      "timeStampAlarmSop": "1685965383710",
+      "timeStampAlarmStart": "1685965380897",
+      "userId": "sarah"
+    },
+    "1685965391951": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "3012",
+      "timeStampAlarmSop": "1685965391951",
+      "timeStampAlarmStart": "1685965388939",
+      "userId": "sarah"
+    },
+    "1685965431842": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "Touch",
+      "responseTime": "3386",
+      "timeStampAlarmSop": "1685965431842",
+      "timeStampAlarmStart": "1685965428456",
+      "userId": "sarah"
+    },
+    "1685965441789": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "Touch",
+      "responseTime": "3091",
+      "timeStampAlarmSop": "1685965441789",
+      "timeStampAlarmStart": "1685965438698",
+      "userId": "sarah"
+    },
+    "1685965450949": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "Touch",
+      "responseTime": "3633",
+      "timeStampAlarmSop": "1685965450948",
+      "timeStampAlarmStart": "1685965447315",
+      "userId": "sarah"
+    },
+    "1685965458924": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "Touch",
+      "responseTime": "2613",
+      "timeStampAlarmSop": "1685965458924",
+      "timeStampAlarmStart": "1685965456311",
+      "userId": "sarah"
+    },
+    "1685965517883": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "2218",
+      "timeStampAlarmSop": "1685965517882",
+      "timeStampAlarmStart": "1685965515664",
+      "userId": "sarah"
+    },
+    "1685965525000": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "2014",
+      "timeStampAlarmSop": "1685965525000",
+      "timeStampAlarmStart": "1685965522986",
+      "userId": "sarah"
+    },
+    "1685965533605": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "2017",
+      "timeStampAlarmSop": "1685965533604",
+      "timeStampAlarmStart": "1685965531587",
+      "userId": "sarah"
+    },
+    "1685965542655": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "2020",
+      "timeStampAlarmSop": "1685965542654",
+      "timeStampAlarmStart": "1685965540634",
+      "userId": "sarah"
+    },
+    "1685965589545": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "3211",
+      "timeStampAlarmSop": "1685965589544",
+      "timeStampAlarmStart": "1685965586333",
+      "userId": "sarah"
+    },
+    "1685965598468": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "3213",
+      "timeStampAlarmSop": "1685965598467",
+      "timeStampAlarmStart": "1685965595254",
+      "userId": "sarah"
+    },
+    "1685965607576": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "2217",
+      "timeStampAlarmSop": "1685965607575",
+      "timeStampAlarmStart": "1685965605358",
+      "userId": "sarah"
+    },
+    "1685965615423": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "2217",
+      "timeStampAlarmSop": "1685965615422",
+      "timeStampAlarmStart": "1685965613205",
+      "userId": "sarah"
+    }
+  },
+  "sarah T2": {
+    "1686143155993": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "4009",
+      "timeStampAlarmSop": "1686143155992",
+      "timeStampAlarmStart": "1686143151983",
+      "userId": "sarah T2"
+    },
+    "1686143165205": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "3012",
+      "timeStampAlarmSop": "1686143165205",
+      "timeStampAlarmStart": "1686143162193",
+      "userId": "sarah T2"
+    },
+    "1686143174429": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "2409",
+      "timeStampAlarmSop": "1686143174429",
+      "timeStampAlarmStart": "1686143172020",
+      "userId": "sarah T2"
+    },
+    "1686143182086": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "SpinHalf",
+      "responseTime": "2411",
+      "timeStampAlarmSop": "1686143182086",
+      "timeStampAlarmStart": "1686143179675",
+      "userId": "sarah T2"
+    },
+    "1686143231521": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "null",
+      "timeStampAlarmSop": "0",
+      "timeStampAlarmStart": "1686143228511",
+      "userId": "sarah T2"
+    },
+    "1686143232524": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "null",
+      "timeStampAlarmSop": "0",
+      "timeStampAlarmStart": "1686143228511",
+      "userId": "sarah T2"
+    },
+    "1686143233921": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "null",
+      "timeStampAlarmSop": "0",
+      "timeStampAlarmStart": "1686143228511",
+      "userId": "sarah T2"
+    },
+    "1686143234723": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "null",
+      "timeStampAlarmSop": "0",
+      "timeStampAlarmStart": "1686143228511",
+      "userId": "sarah T2"
+    },
+    "1686143235322": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "null",
+      "timeStampAlarmSop": "0",
+      "timeStampAlarmStart": "1686143228511",
+      "userId": "sarah T2"
+    },
+    "1686143235921": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "null",
+      "timeStampAlarmSop": "0",
+      "timeStampAlarmStart": "1686143228511",
+      "userId": "sarah T2"
+    },
+    "1686143236922": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "8411",
+      "timeStampAlarmSop": "1686143236922",
+      "timeStampAlarmStart": "1686143228511",
+      "userId": "sarah T2"
+    },
+    "1686143245809": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "2011",
+      "timeStampAlarmSop": "1686143245809",
+      "timeStampAlarmStart": "1686143243798",
+      "userId": "sarah T2"
+    },
+    "1686143253346": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "2013",
+      "timeStampAlarmSop": "1686143253346",
+      "timeStampAlarmStart": "1686143251333",
+      "userId": "sarah T2"
+    },
+    "1686143261103": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "FlipHalf",
+      "responseTime": "2413",
+      "timeStampAlarmSop": "1686143261102",
+      "timeStampAlarmStart": "1686143258689",
+      "userId": "sarah T2"
+    },
+    "1686143309073": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "2213",
+      "timeStampAlarmSop": "1686143309073",
+      "timeStampAlarmStart": "1686143306860",
+      "userId": "sarah T2"
+    },
+    "1686143316797": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "null",
+      "timeStampAlarmSop": "0",
+      "timeStampAlarmStart": "1686143314187",
+      "userId": "sarah T2"
+    },
+    "1686143318398": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "4211",
+      "timeStampAlarmSop": "1686143318398",
+      "timeStampAlarmStart": "1686143314187",
+      "userId": "sarah T2"
+    },
+    "1686143328178": {
+      "actualGesture": "SpinHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "null",
+      "timeStampAlarmSop": "0",
+      "timeStampAlarmStart": "1686143324965",
+      "userId": "sarah T2"
+    },
+    "1686143329978": {
+      "actualGesture": "FlipHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "null",
+      "timeStampAlarmSop": "0",
+      "timeStampAlarmStart": "1686143324965",
+      "userId": "sarah T2"
+    },
+    "1686143330983": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "6017",
+      "timeStampAlarmSop": "1686143330982",
+      "timeStampAlarmStart": "1686143324965",
+      "userId": "sarah T2"
+    },
+    "1686143341039": {
+      "actualGesture": "RotateHalf",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "RotateHalf",
+      "responseTime": "3011",
+      "timeStampAlarmSop": "1686143341039",
+      "timeStampAlarmStart": "1686143338028",
+      "userId": "sarah T2"
+    }
+  },
+  "sarah t2": {
+    "1686143402487": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "Touch",
+      "responseTime": "4301",
+      "timeStampAlarmSop": "1686143402486",
+      "timeStampAlarmStart": "1686143398185",
+      "userId": "sarah t2"
+    },
+    "1686143411332": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "Touch",
+      "responseTime": "2558",
+      "timeStampAlarmSop": "1686143411331",
+      "timeStampAlarmStart": "1686143408773",
+      "userId": "sarah t2"
+    },
+    "1686143420356": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "Touch",
+      "responseTime": "3365",
+      "timeStampAlarmSop": "1686143420356",
+      "timeStampAlarmStart": "1686143416991",
+      "userId": "sarah t2"
+    },
+    "1686143430016": {
+      "actualGesture": "Touch",
+      "contextId": "Distracted (Typing)",
+      "expectedGesture": "Touch",
+      "responseTime": "3160",
+      "timeStampAlarmSop": "1686143430016",
+      "timeStampAlarmStart": "1686143426856",
+      "userId": "sarah t2"
+    }
+  }
+}
